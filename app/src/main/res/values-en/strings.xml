@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Go Parkir</string>
+    <string name="goparkir_intro">Calculate how much your parking price will be</string>
+    <string name="mobil">Car</string>
+    <string name="motor">Motorcyle</string>
+    <string name="harga">Price</string>
+    <string name="total_x">Total: RP%1$s</string>
+    <string name="nama">Name: %1$</string>
+    <string name="input_invalid">Cannot be empty.</string>
+    <string name="bagikan">Share</string>
+    <string name="bagikan_template">Day: %1$s \n Total:%2$s</string>
+    <string name="tentang_aplikasi">about the application</string>
+    <string name="copyright">Go parking is an application that helps calculate prices according to how long you park  \n\nI made this application for assessment 1 Mobpro with minimal devices and information.  \n\nCopyright © 2024 Tangguh Satria Alifsya (6706220025). All rights     reserved.</string>
+    <string name="kembali">Back</string>
+    <string name="hari">Day: %1$s</string>
+    <string name="kendaraan">Vehicle: %1$s</string>
+    <string name="input_hari">Input the length of time you parked (days)</string>
+</resources>

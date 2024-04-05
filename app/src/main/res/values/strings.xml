@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">Go Parkir</string>
+    <string name="goparkir_intro" translatable="false">Hitung berapa jumlah harga parkir anda</string>
+    <string name="mobil" translatable="false">Mobil</string>
+    <string name="motor" translatable="false">Motor</string>
+    <string name="harga" translatable="false">Harga</string>
+    <string name="total_x" translatable="false">Total: RP %1$s </string>
+    <string name="nama" translatable="false">Nama: %1$</string>
+    <string name="input_invalid" translatable="false">Tidak Boleh Kososng.</string>
+    <string name="bagikan" translatable="false">Bagikan</string>
+    <string name="bagikan_template" translatable="false">Hari: %1$s \n Total:%2$s </string>
+    <string name="tentang_aplikasi" translatable="false">Tentang Aplikasi</string>
+    <string name="copyright" translatable="false">Go arkir adalah aplikasi yang membantu mengkalkulasikan harga sesuai berapa lama anda parkir\n\nAplikasi ini saya buat untuk assesment 1 Mobpro dengan device dan informasi seadanya.\n\nCopyright © 2024 Tangguh Satria Alifsya (6706220025).\nAll rights
+    reserved.</string>
+    <string name="kembali" translatable="false">kembali</string>
+    <string name="hari" translatable="false">Hari: %1$s</string>
+    <string name="kendaraan" translatable="false">Kendaraan: %1$s</string>
+    <string name="input_hari" translatable="false">Input Lamanya Anda Parkir (Hari)</string>
+    <string name="background">bg\n</string>
+
+</resources>
